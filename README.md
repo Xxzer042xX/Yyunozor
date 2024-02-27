@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozor&show_icons=true&theme=shades-of-purple)
 
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,apple,figma,ai,git,c,vim,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,apple,figma,ai,vim,git,c,&perline=8)](https://skillicons.dev)
 
 
 <!---
